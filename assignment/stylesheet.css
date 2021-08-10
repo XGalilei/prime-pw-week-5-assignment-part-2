@@ -1,0 +1,15 @@
+header {
+  background-color: black; //you said dark, you got dark
+  color: white;
+  text-align: center;
+}
+
+body {
+  background-image: url('record.png');
+  margin: 0;
+  padding: 1em;
+}
+
+main {
+  background-color: lightgrey;
+}
